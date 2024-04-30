@@ -6,3 +6,17 @@ body{
 h1{
     color: #000000;
 }
+
+footer{
+    display: inline;
+    background-color: lightgrey;
+    position: fixed;
+    height: 200px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+footer.h1{
+    color: white;
+}
